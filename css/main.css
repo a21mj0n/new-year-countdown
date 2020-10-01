@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Alef&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Alef', sans-serif;
+  background: url('../images/fabian-mardi-kVKz9qnJC-k-unsplash.jpg') center center no-repeat;
+  height: 100vh; 
+  background-size: cover;
+}
+
+.wrapper {
+  padding-top: 3%;
+}
+
+.title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #7cbff5
+}
+
+.big-text {
+  margin-bottom: 0;
+  font-size: 3rem;
+  color: #9ebbd3;
+  font-weight: 500;
+}
+
+.small-text {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  color: rgb(155, 165, 168);
+}
