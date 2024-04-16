@@ -3,7 +3,7 @@ const hoursEl = document.querySelector('.hours');
 const minutesEl = document.querySelector('.minutes');
 const secondsEl = document.querySelector('.seconds');
 
-const date = '1 Jan 2023';
+const date = '1 Jan 2025';
 
 function countown() {
   const newYearDate = new Date(date);
